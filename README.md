@@ -1,1 +1,1 @@
-Mở giao diện : Streamlit run demo_app.python
+Mở giao diện : streamlit run demo_app.python
